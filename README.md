@@ -2,10 +2,11 @@
 💻 Aspiring Python Full Stack Developer | Tech Enthusiast 
 
 
-🚀 Passionate about building scalable web applications, solving real-world problems, and continuously improving my development skills. Currently focusing on mastering Python full stack technologies and cloud deployment
+Passionate about building scalable web applications, solving real-world problems, and continuously improving my development skills. Currently focusing on mastering Python full stack technologies and cloud deployment
 
 
 💫 About Me
+
 Currently Learning: Django, FastAPI, React, Java script
 Looking to Collaborate: Open-source projects, startups, and web-based applications
 Fun Fact: I love playing badminton and creating Python tutorial videos
