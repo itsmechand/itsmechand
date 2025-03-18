@@ -9,13 +9,18 @@ Passionate about building scalable web applications, solving real-world problems
 
 💫 About Me
 
+
 Currently Learning: Django, FastAPI, React, Java script
+
 Looking to Collaborate: Open-source projects, startups, and web-based applications
+
 Fun Fact: I love playing badminton and creating Python tutorial videos
 
 
 
 ## 💻 Tech Stack:
+
+
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,6 +41,7 @@ Fun Fact: I love playing badminton and creating Python tutorial videos
 🌐 Connect With Me
 
 
+
 Email: cs7093624@gmail.com
 
 Linkedin : https://www.linkedin.com/in/chandra-gollaprolu/
@@ -48,8 +54,10 @@ Instagram : https://www.instagram.com/chandra_official_22/
 
 🎯 Current Goals
 
+
 Contribute to open-source projects
 Build and deploy full-stack applications
+
 
 
 
