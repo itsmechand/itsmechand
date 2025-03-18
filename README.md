@@ -1,4 +1,5 @@
 👋 Hi, I'm Chandra Sekhar Gollaprolu
+
 💻 Aspiring Python Full Stack Developer | Tech Enthusiast 
 
 
@@ -7,7 +8,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 
 
-💫 About Me
+💫 About Me :
 
 
 Currently Learning: Django, FastAPI, React, Java script
@@ -38,7 +39,7 @@ Fun Fact: I love playing badminton and creating Python tutorial videos
 
 
 
-🌐 Connect With Me
+🌐 Connect With Me :
 
 
 
@@ -52,7 +53,7 @@ Instagram : https://www.instagram.com/chandra_official_22/
 
 
 
-🎯 Current Goals
+🎯 Current Goals :
 
 
 Contribute to open-source projects
