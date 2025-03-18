@@ -27,9 +27,13 @@ Fun Fact: I love playing badminton and creating Python tutorial videos
 
 
 🌐 Connect With Me
+
 Email: cs7093624@gmail.com
+
 Linkedin : https://www.linkedin.com/in/chandra-gollaprolu/
+
 Portfolio : https://itsmechand.github.io/My_Portfolio/ 
+
 Instagram : https://www.instagram.com/chandra_official_22/
 
 
