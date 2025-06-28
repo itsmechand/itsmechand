@@ -47,7 +47,7 @@ Email: cs7093624@gmail.com
 
 Linkedin : https://www.linkedin.com/in/chandra-gollaprolu/
 
-Portfolio : https://itsmechand.github.io/My_Portfolio/ 
+Portfolio : https://itsmechand.github.io/Portfolio2/
 
 Instagram : https://www.instagram.com/chandra_official_22/
 
